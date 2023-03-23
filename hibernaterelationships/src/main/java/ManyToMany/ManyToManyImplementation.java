@@ -36,6 +36,8 @@ public class ManyToManyImplementation {
 		
 		tr.commit();
 		
+		System.out.println("Hello Anita");
+		
 		
 	}
 
